@@ -1,7 +1,13 @@
 
-# Ex.No:2 Develop an application that uses GUI Components with Fonts and Colors
-
-
+## Ex.No:2 Develop an application that uses GUI Components with Fonts and Colors
+ ```
+/*
+Program to Develop an application that uses Font Size using Android Studio .
+Developed by: Jashwana Fathima S
+RegisterNumber:  212222040059
+Date: 26.08.2024
+*/
+```
 ## AIM:
 To develop an application that uses GUI Components with Fonts and Colors using android studio.
 
@@ -41,13 +47,7 @@ Step 6:Close the Android project.
 
 
 ## Program:
- ```
-/*
-Program to Develop an application that uses Font Size using Android Studio .
-Developed by: Jashwana Fathima S
-RegisterNumber:  212222040059
-*/
-```
+
 
 ## MainActivity.java:
 ```
